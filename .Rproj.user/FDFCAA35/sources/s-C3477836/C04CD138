@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571513270201.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3878682073",
+    "id" : "C04CD138",
+    "lastKnownWriteTime" : 1572948260,
+    "last_content_update" : 1572948260,
+    "path" : "~/Documents/Perso/site_perso/biosketch.Rmd",
+    "project_path" : "biosketch.Rmd",
+    "properties" : {
+        "cursorPosition" : "18,149",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
