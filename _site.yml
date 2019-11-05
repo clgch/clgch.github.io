@@ -2,7 +2,7 @@ name: "site_perso"
 title: "Clément Gauchy"
 description: |
   My Website
-output_dir: "_site"
+output_dir: "site"
 navbar:
   left:
     - icon: fa-envelope
