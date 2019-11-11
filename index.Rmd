@@ -24,4 +24,4 @@ knitr::opts_chunk$set(echo = FALSE)
 # Current Position
 
 Since November 2019, I am a PhD student in Statistics at [CEA](http://www.cea.fr/english/Pages/cea/the-cea-a-key-player-in-technological-research.aspx) 
-(French Atomic Energy Comission) and Applied Mathematics Laboratory, École Polytechnique, under the supervision of [Josselin Garnier](http://josselin-garnier.org), PhD director, and Cyril Feau (CEA, [EMSI](http://www-tamaris.cea.fr/index_en.php)).
+(French Atomic Energy Commission) and Applied Mathematics Laboratory, École Polytechnique, under the supervision of [Josselin Garnier](http://josselin-garnier.org), PhD director, and Cyril Feau (CEA, [EMSI](http://www-tamaris.cea.fr/index_en.php)).
