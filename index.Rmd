@@ -12,8 +12,12 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
+<style>
+  img {border-radius: 50%}
+</style>
 
-[comment]: # <img src="./images/pp.jpeg" style="width:200px;"/>
+
+<img src="./images/pp.jpeg" style="width:120px;"/>
 
 # Research Interests
 
