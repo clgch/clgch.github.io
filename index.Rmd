@@ -13,11 +13,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 <style>
-  img {border-radius: 50%}
+  img {border-radius: 5%}
 </style>
 
 
-<img src="./images/pp.jpeg" style="width:120px;"/>
+<img src="./images/pp.jpg" style="width:100px;"/>
 
 # Research Interests
 
