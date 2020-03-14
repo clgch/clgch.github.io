@@ -1,0 +1,13 @@
+---
+title: "Publications"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+* C. Gauchy, J. Stenger, R. Sueur and B. Iooss. \
+  *An information geometry approach for robustness analysis in uncertainty quantification of computer codes * \
+  **Preprint** \
+  [HAL](https://hal.archives-ouvertes.fr/hal-02425477)

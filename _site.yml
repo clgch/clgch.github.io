@@ -10,4 +10,8 @@ navbar:
   right:
     - text: "Biosketch"
       href: biosketch.html 
+    - text: "Research"
+      menu:
+        - text: "Publications"
+          href: publications.html 
 output: distill::distill_article
