@@ -1,0 +1,23 @@
+---
+title: "Talks & Posters"
+---
+
+---
+title: "Talks & Posters"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+* Poster @ GdR MASCOT NUM PhD days, September 17-18, Grenoble university. I was granted of the award of the best PhD student poster: \
+[Poster Mascot 2020](poster/poster_mascot.pdf "poster_mascot_2020")
+
+
+* Talk @ ETICS 2020 with Jerome Stenger: \
+*Optimal Fisher-based perturbed-law indices* \
+[Slides](https://www.gdr-mascotnum.fr/media/etics2020_gauchy.pdf)
+  
+  
+  

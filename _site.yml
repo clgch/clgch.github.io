@@ -14,4 +14,6 @@ navbar:
       menu:
         - text: "Publications"
           href: publications.html 
+        - text: "Talks & Posters"
+          href: talks_poster.html
 output: distill::distill_article
