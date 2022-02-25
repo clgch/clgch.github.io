@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
   *An information geometry approach for robustness analysis in uncertainty quantification of computer codes * \
   Technometrics 64(1), 2022\
   [HAL](https://hal.archives-ouvertes.fr/hal-02425477)
-  [Link](https://www.tandfonline.com/doi/citedby/10.1080/00401706.2021.1905072)
+  [link](https://www.tandfonline.com/doi/full/10.1080/00401706.2021.1905072)
   
 * C. Gauchy, C. Feau, J. Garnier \
   *Importance sampling based active learning for parametric seismic fragility curve estimation* \
