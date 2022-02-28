@@ -17,3 +17,8 @@ knitr::opts_chunk$set(echo = TRUE)
   *Importance sampling based active learning for parametric seismic fragility curve estimation* \
   In revision \
   [Arxiv](https://arxiv.org/abs/2109.04323)
+
+* C. Gauchy, C. Feau, J. Garnier \
+  *Estimation of seismic fragility curves by sequential design of experiments* \
+  Conference preprint   
+  [HAL](https://hal.archives-ouvertes.fr/hal-03588974)
