@@ -1,0 +1,39 @@
+{
+  "articles": [
+    {
+      "path": "biosketch.html",
+      "title": "Biosketch",
+      "author": [],
+      "contents": "\r\nNovember 2019 -  Ph.D in Statistics at the Commissariat à l’Énergie Atomique et aux Énergies Alternatives (CEA) and at the Centre de Mathématiques Appliquées (CMAP), École Polytechnique\r\nMay 2019 - October 2019 End of study internship at EDF R&D, PRISME department.\r\nSeptember 2018 - April 2019\r\nMaster degree in Statistics and Machine Learning, Université Paris Sud\r\nThird year major in applied mathematics, École Centrale Paris\r\n\r\nSeptember 2016 - June 2018 Engineer degree obtained at École Centrale Paris in 2019\r\nSeptember 2014 - June 2016 Preparation to national competitive entrance exam to french schools of engineering, Lycée Pierre de Fermat, Toulouse\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-28T10:38:48+01:00"
+    },
+    {
+      "path": "index.html",
+      "title": "About me",
+      "author": [],
+      "contents": "\r\n\r\n  img {border-radius: 5%}\r\n\r\nResearch Interests\r\nUncertainty quantification for computer experiments\r\nComputational statistics\r\nGaussian process modeling\r\nCurrent Position\r\nSince November 2019, I am a PhD student in Statistics at CEA (French Atomic Energy Commission) and Applied Mathematics Laboratory, École Polytechnique, under the supervision of Josselin Garnier, PhD director, and Cyril Feau (CEA, EMSI). My work concerns the propagation of epistemic uncertainties of a mechanical structure into its seismic fragility curves using machine learning techniques and the development of active learning strategies for fragility curve estimation.\r\nContact\r\nYou can write me an e-mail at: clement “dot” gauchy “at” polytechnique “dot” edu\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-28T10:38:49+01:00"
+    },
+    {
+      "path": "publications.html",
+      "title": "Publications",
+      "author": [],
+      "contents": "\r\nC. Gauchy, J. Stenger, R. Sueur and B. Iooss.An information geometry approach for robustness analysis in uncertainty quantification of computer codes \r\nTechnometrics 64(1), 2022HAL link\r\nC. Gauchy, C. Feau, J. GarnierImportance sampling based active learning for parametric seismic fragility curve estimation\r\nIn revisionArxiv\r\nC. Gauchy, C. Feau, J. GarnierEstimation of seismic fragility curves by sequential design of experiments\r\nConference preprintHAL\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-28T10:38:50+01:00"
+    },
+    {
+      "path": "README.html",
+      "author": [],
+      "contents": "\r\nclgch.github.io\r\nMy personal website\r\n\r\n\r\n",
+      "last_modified": "2022-02-25T10:34:16+01:00"
+    },
+    {
+      "path": "talks_poster.html",
+      "title": "Talks & Posters",
+      "author": [],
+      "contents": "\r\nPoster @ GdR MASCOT NUM PhD days, September 17-18 2020, Grenoble university. I was granted of the award of the best PhD student poster:Poster Mascot 2020\r\nTalk @ ETICS summer school 2020 with Jerome Stenger:Optimal Fisher-based perturbed-law indicesSlides\r\nTalk @ Journées de Statistiques, June 2021, Quality and reliability sessionPropagation of epistemic uncertainties and global sensitivity analysis in seismic risk assessmentSlides\r\nTalk @ Journées de Statistiques, June 2021, ENBIS sessionActive learning strategy for fragility curve estimation using adaptive importance samplingSlides\r\nTalk @ ETICS summer school 2021Propagation of epistemic uncertainties and global sensitivity analysis in seismic risk assessmentSlides\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-28T10:38:51+01:00"
+    }
+  ],
+  "collections": []
+}
