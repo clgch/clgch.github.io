@@ -16,4 +16,6 @@ navbar:
           href: publications.html 
         - text: "Talks & Posters"
           href: talks_poster.html
+        - text: "Ph.D."
+          href: phd.html
 output: distill::distill_article

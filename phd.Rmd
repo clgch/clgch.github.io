@@ -1,0 +1,29 @@
+---
+title: "Ph.D. thesis"
+---
+
+---
+title: "Ph.D. thesis"
+---
+
+I defended my Ph.D. thesis, **"Uncertainty quantification methodology for seismic fragility curves of mechanical structures - Application to a piping system of a nuclear power plant"** on the 9th of November 2022 at Ecole polytechnique, before the jury composed by:
+
+* Dr. Cyril Feau (supervisor), *CEA Saclay*
+
+* Pr. Fabrice Gamboa (reviewer), *Université Paul Sabatier*
+
+* Pr. Josselin Garnier (Thesis director), *Ecole polytechnique*
+
+* Pr. Olivier Le Maître (examiner), *Ecole polytechnique*
+
+* Dr. Amandine Marrel (examiner), *CEA Cadarache*
+
+* Pr. Clémentine Prieur (examiner), *Université Grenoble Alpes*
+
+* Pr. Bruno Sudret (president of the jury), *ETH Zürich*
+
+* Pr. Alexandros Taflanidis (reviewer), *University of Notre Dame*
+
+* Mr. Emmanuel Viallet (guest), *EDF Direction Technique*
+
+Here are the [slides](slides_defense.pdf) of the defense and the [pdf](manuscript.pdf) file of the manuscript.

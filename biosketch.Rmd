@@ -6,7 +6,9 @@ title: "Biosketch"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-* **November 2019 - ** Ph.D in Statistics at the Commissariat à l'Énergie Atomique et aux Énergies Alternatives (CEA) and at the Centre de Mathématiques Appliquées (CMAP), École Polytechnique
+* **Current position** Research engineer in computational statistics at CEA
+
+* **November 2019 - November 2022** Ph.D. candidate in Statistics at the Commissariat à l'Énergie Atomique et aux Énergies Alternatives (CEA) and at the Centre de Mathématiques Appliquées (CMAP), École Polytechnique
 
 * **May 2019 - October 2019** End of study internship at EDF R&D, PRISME department.
 
