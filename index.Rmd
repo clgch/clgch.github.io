@@ -21,15 +21,17 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Research Interests
 
-* Uncertainty quantification for computer experiments
+* Uncertainty quantification
 * Computational statistics
-* Gaussian process modeling
+* Gaussian process regression
 
-# Current Position
+# Current and past positions
 
-Since November 2019, I am a PhD student in Statistics at [CEA](http://www.cea.fr/english/Pages/cea/the-cea-a-key-player-in-technological-research.aspx) 
-(French Atomic Energy Commission) and Applied Mathematics Laboratory, École Polytechnique, under the supervision of [Josselin Garnier](http://josselin-garnier.org), PhD director, and Cyril Feau (CEA, [EMSI](http://www-tamaris.cea.fr/index_en.php)). My work concerns the propagation of epistemic uncertainties of a mechanical structure into its seismic fragility curves using machine learning techniques and the development of active learning strategies for fragility curve estimation. 
+Since November 2022, I am a research engineer in applied statistics and probability at [CEA](http://www.cea.fr/english/Pages/cea/the-cea-a-key-player-in-technological-research.aspx) (French national laboratory on nuclear and renewable energies).\ 
+
+From November 2019 to November 2022, I was a Ph.D. student in statistics at [CEA](http://www.cea.fr/english/Pages/cea/the-cea-a-key-player-in-technological-research.aspx) 
+and [Applied Mathematics Laboratory](https://portail.polytechnique.edu/cmap/en), École polytechnique, under the supervision of [Josselin Garnier](http://josselin-garnier.org), PhD director, and Cyril Feau (CEA, [EMSI](http://www-tamaris.cea.fr/index_en.php)).
 
 # Contact
 
-You can write me an e-mail at: clement "dot" gauchy "at" polytechnique "dot" edu
+You can write me an e-mail at: clement "dot" gauchy "at" cea "dot" fr
