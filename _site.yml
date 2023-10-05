@@ -9,7 +9,11 @@ navbar:
       href: mailto:clement[dot]gauchy[at]cea[dot]fr
   right:
     - text: "Biosketch"
-      href: biosketch.html 
+      href: biosketch.html
+    - text: "Teaching"
+      menu:
+        - text: "INSTN - M2 RPM"
+          href: m2rpm.html
     - text: "Research"
       menu:
         - text: "Publications"
