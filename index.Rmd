@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Current and past positions
 
-Since November 2022, I am a research engineer in applied statistics and probability at [CEA](http://www.cea.fr/english/Pages/cea/the-cea-a-key-player-in-technological-research.aspx) (French national laboratory on nuclear and renewable energies).\ 
+Since November 2022, I am a research engineer in applied statistics and probability at [CEA](http://www.cea.fr/english/Pages/cea/the-cea-a-key-player-in-technological-research.aspx) (French national laboratory on nuclear and alternative energies).\ 
 
 From November 2019 to November 2022, I was a Ph.D. student in statistics at [CEA](http://www.cea.fr/english/Pages/cea/the-cea-a-key-player-in-technological-research.aspx) 
 and [Applied Mathematics Laboratory](https://portail.polytechnique.edu/cmap/en), École polytechnique, under the supervision of [Josselin Garnier](http://josselin-garnier.org), PhD director, and Cyril Feau (CEA, [EMSI](http://www-tamaris.cea.fr/index_en.php)).
