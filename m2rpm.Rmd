@@ -10,4 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * [Statistiques I](lectures/M2RPM/statistiques1.pdf)
 
+* [Statistiques II](lectures/M2RPM/statistiques2.pdf)
+
+Code Python implémentant l'algorithme EM pour le mélange de lois Gaussiennes [ici](lectures//M2RPM/em_gaussians.py)
+
 
