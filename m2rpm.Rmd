@@ -14,4 +14,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Code Python implémentant l'algorithme EM pour le mélange de lois Gaussiennes [ici](lectures//M2RPM/em_gaussians.py)
 
+* [Monte-Carlo](lectures/M2RPM/monte_carlo.pdf)
+
+* [Régression linéaire & apprentissage statistique](lectures/M2RPM/reglin.pdf)
+
 
