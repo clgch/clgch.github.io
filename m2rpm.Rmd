@@ -18,4 +18,6 @@ Code Python implémentant l'algorithme EM pour le mélange de lois Gaussiennes [
 
 * [Régression linéaire & apprentissage statistique](lectures/M2RPM/reglin.pdf)
 
+* TD de statistiques: [Exercices](lectures/M2RPM/exercices.pdf) [Correction](lectures/M2RPM/corrections.pdf) 
+
 
