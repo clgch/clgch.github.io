@@ -20,4 +20,5 @@ Code Python implémentant l'algorithme EM pour le mélange de lois Gaussiennes [
 
 * TD de statistiques: [Exercices](lectures/M2RPM/exercices.pdf) [Correction](lectures/M2RPM/corrections.pdf) 
 
+* [Tests statistiques](lectures/M2RPM/test_stats.pdf)
 
