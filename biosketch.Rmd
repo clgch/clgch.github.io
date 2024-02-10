@@ -6,7 +6,7 @@ title: "Biosketch"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-* **Current position** Research engineer in computational statistics at CEA
+* **Current position** Research staff member in computational statistics at CEA
 
 * **November 2019 - November 2022** Ph.D. candidate in Statistics at the Commissariat à l'Énergie Atomique et aux Énergies Alternatives (CEA) and at the Centre de Mathématiques Appliquées (CMAP), École Polytechnique
 
@@ -16,7 +16,6 @@ knitr::opts_chunk$set(echo = FALSE)
   - Master degree in Statistics and Machine Learning, Université Paris Sud
   - Third year major in applied mathematics, École Centrale Paris
 
-* **September 2016 - June 2018** Engineer degree obtained at École Centrale Paris in 2019
+* **September 2016 - June 2018** Engineering degree obtained at École Centrale Paris in 2019
 
-* **September 2014 - June 2016** Preparation to national competitive entrance exam to french schools of engineering, Lycée Pierre de Fermat, Toulouse  
 

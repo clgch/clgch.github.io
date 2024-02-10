@@ -8,17 +8,22 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 * C. Gauchy, J. Stenger, R. Sueur and B. Iooss. \
-  *An information geometry approach for robustness analysis in uncertainty quantification of computer codes * \
-  Technometrics 64(1), 2022\
+  An information geometry approach for robustness analysis in uncertainty quantification of computer codes. \
+  *Technometrics* 64(1):80-91, 2022\
   [HAL](https://hal.archives-ouvertes.fr/hal-02425477)
   [link](https://www.tandfonline.com/doi/full/10.1080/00401706.2021.1905072)
   
 * C. Gauchy, C. Feau, J. Garnier \
-  *Importance sampling based active learning for parametric seismic fragility curve estimation* \
-  In revision \
+  Importance sampling based active learning for parametric seismic fragility curve estimation. \
+  Preprint \
   [Arxiv](https://arxiv.org/abs/2109.04323)
 
 * C. Gauchy, C. Feau, J. Garnier \
-  *Estimation of seismic fragility curves by sequential design of experiments* \
+  Estimation of seismic fragility curves by sequential design of experiments. \
   Conference preprint   
   [HAL](https://hal.archives-ouvertes.fr/hal-03588974)
+  
+* C. Gauchy, C. Feau, J. Garnier \
+  Uncertainty quantification and global sensitivity analysis of seismic fragility curves using kriging. \
+  *International Journal of Uncertainty Quantification*, forthcoming \
+  [Arxiv](https://arxiv.org/abs/2210.06266)
