@@ -5,35 +5,35 @@
       "title": "Biosketch",
       "author": [],
       "contents": "\r\nCurrent position Research staff member in computational statistics at CEA\r\nNovember 2019 - November 2022 Ph.D. candidate in Statistics at the Commissariat à l’Énergie Atomique et aux Énergies Alternatives (CEA) and at the Centre de Mathématiques Appliquées (CMAP), École Polytechnique\r\nMay 2019 - October 2019 End of study internship at EDF R&D, PRISME department.\r\nSeptember 2018 - April 2019\r\nMaster degree in Statistics and Machine Learning, Université Paris Sud\r\nThird year major in applied mathematics, École Centrale Paris\r\n\r\nSeptember 2016 - June 2018 Engineering degree obtained at École Centrale Paris in 2019\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-04-28T17:02:29+02:00"
+      "last_modified": "2024-09-11T11:25:14+02:00"
     },
     {
       "path": "index.html",
       "title": "About me",
       "author": [],
       "contents": "\r\n\r\nResearch Interests\r\nUncertainty quantification\r\nComputational statistics\r\nGaussian process regression\r\nCurrent and past positions\r\nSince November 2022, I am a research staff member in applied statistics at CEA (French national laboratory on nuclear and alternative energies). \r\nFrom November 2019 to November 2022, I was a Ph.D. student in statistics at CEA\r\nand Applied Mathematics Laboratory, École polytechnique, under the supervision of Dr. Josselin Garnier, PhD director, and Dr. Cyril Feau (CEA, EMSI).\r\nContact\r\nYou can write me an e-mail at: C.G@cea.fr (C=clement, G=gauchy)\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-04-28T17:02:30+02:00"
+      "last_modified": "2024-09-11T11:25:15+02:00"
     },
     {
       "path": "m2rpm.html",
       "title": "INSTN - M2 Radiophysique médicale",
       "author": [],
-      "contents": "\r\nPlanches des cours\r\nStatistiques I\r\nStatistiques II\r\nCode Python implémentant l’algorithme EM pour le mélange de lois Gaussiennes ici\r\nMonte-Carlo\r\nRégression linéaire & apprentissage statistique\r\nTD de statistiques: Exercices Correction\r\nTests statistiques\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-04-28T17:02:30+02:00"
+      "contents": "\r\nPlanches des cours\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-09-11T11:25:16+02:00"
     },
     {
       "path": "phd.html",
       "title": "Ph.D. thesis",
       "author": [],
       "contents": "\r\nI defended my Ph.D. thesis, “Uncertainty quantification methodology for seismic fragility curves of mechanical structures - Application to a piping system of a nuclear power plant” on the 9th of November 2022 at Ecole polytechnique, before the jury composed by:\r\nDr. Cyril Feau (supervisor), CEA Saclay\r\nPr. Fabrice Gamboa (reviewer), Université Paul Sabatier\r\nPr. Josselin Garnier (Thesis director), Ecole polytechnique\r\nPr. Olivier Le Maître (examiner), Ecole polytechnique\r\nDr. Amandine Marrel (examiner), CEA Cadarache\r\nPr. Clémentine Prieur (examiner), Université Grenoble Alpes\r\nPr. Bruno Sudret (president of the jury), ETH Zürich\r\nPr. Alexandros Taflanidis (reviewer), University of Notre Dame\r\nMr. Emmanuel Viallet (guest), EDF Direction Technique\r\nHere are the slides of the defense and the pdf file of the manuscript.\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-04-28T17:02:31+02:00"
+      "last_modified": "2024-09-11T11:25:17+02:00"
     },
     {
       "path": "publications.html",
       "title": "Publications",
       "author": [],
       "contents": "\r\nC. Gauchy, J. Stenger, R. Sueur and B. Iooss.\r\nAn information geometry approach for robustness analysis in uncertainty quantification of computer codes.Technometrics 64(1):80-91, 2022HAL\r\nlink\r\nC. Gauchy, C. Feau, J. Garnier\r\nImportance sampling based active learning for parametric seismic fragility curve estimation.\r\nPreprintArxiv\r\nC. Gauchy, C. Feau, J. Garnier\r\nEstimation of seismic fragility curves by sequential design of experiments.\r\nConference preprintHAL\r\nC. Gauchy, C. Feau, J. Garnier\r\nUncertainty quantification and global sensitivity analysis of seismic fragility curves using kriging.International Journal of Uncertainty Quantification 14(4):39-63, 2024Arxiv\r\nlink\r\nA. Van Biesbroeck, C. Gauchy, C. Feau, J. Garnier  \r\nReference prior for Bayesian estimation of seismic fragility curves.Probabilistic Engineering Mechanics 2024Arxiv\r\nlink\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-04-28T17:02:31+02:00"
+      "last_modified": "2024-09-11T11:25:18+02:00"
     },
     {
       "path": "README.html",
@@ -46,7 +46,7 @@
       "title": "Talks & Posters",
       "author": [],
       "contents": "\r\nPoster @ GdR MASCOT NUM PhD days, September 17-18 2020, Grenoble university. I was granted of the award of the best PhD student poster:Poster Mascot 2020\r\nTalk @ ETICS summer school 2020 with Jerome Stenger:Optimal Fisher-based perturbed-law indicesSlides\r\nTalk @ Journées de Statistiques, June 2021, Quality and reliability sessionPropagation of epistemic uncertainties and global sensitivity analysis in seismic risk assessmentSlides\r\nTalk @ Journées de Statistiques, June 2021, ENBIS sessionActive learning strategy for fragility curve estimation using adaptive importance samplingSlides\r\nTalk @ ETICS summer school 2021Propagation of epistemic uncertainties and global sensitivity analysis in seismic risk assessmentSlides\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-04-28T17:02:32+02:00"
+      "last_modified": "2024-09-11T11:25:19+02:00"
     }
   ],
   "collections": []
