@@ -1,2 +1,1 @@
-# kerleguer
-The webpage of Baptiste Kerleguer
+Personal blog of Clément Gauchy
