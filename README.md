@@ -1,3 +1,2 @@
-# clgch.github.io
-
-My personal website
+# kerleguer
+The webpage of Baptiste Kerleguer
