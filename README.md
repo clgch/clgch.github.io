@@ -1,3 +1,1 @@
-# clgch.github.io
-
-My personal website
+Personal blog of Clément Gauchy
